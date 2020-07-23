@@ -1,3 +1,1 @@
 Another file in the feature1 branch is created for improvements.
-
-Also this line is needed.
